@@ -1,4 +1,4 @@
-## LaunchX_Katas
+## LaunchX_Kata
 
 Archivo donde subire mis archivos Kata para Launch X
 
